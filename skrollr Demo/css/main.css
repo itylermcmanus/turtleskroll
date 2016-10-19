@@ -1,0 +1,760 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background-color: 	#cd5c5c;
+
+}
+
+.section{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+
+}
+.shapes{
+	position: absolute;
+	display: block;
+	margin-left: 5%;
+}
+
+.shapes2{
+	position: relative;
+	
+	margin-left: 10%;
+}
+
+.shapes3{
+	
+	margin-left: 15%;
+}
+
+.shapes4{
+	
+	margin-left: 20%;
+	position: absolute;
+}
+
+#shape{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 300px; 
+	position: absolute;
+
+}
+
+#shape1{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 400px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shape2{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 250px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shape3{
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 100px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shape4{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 150px; 
+position: absolute;
+}
+
+#shape5{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 300px; 
+position: absolute;
+
+}
+
+#shape6{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 400px; 
+position: absolute;
+}
+
+#shape7{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 500px; 
+position: absolute;
+}
+
+#shape8{
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 600px; 
+position: absolute;
+}
+
+#shape9{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 700px; 
+position: absolute;
+}
+
+#shapez{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 350px; 
+	position: absolute;
+
+}
+
+#shapez1{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 450px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shapez2{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 375px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shapez3{
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 550px; 
+position: absolute;
+border-outline: 2px;
+}
+
+#shapez4{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 50px; 
+position: absolute;
+}
+
+#shapez5{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 375px; 
+position: absolute;
+
+}
+
+#shapez6{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 410px; 
+position: absolute;
+}
+
+#shapez7{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 650px; 
+position: absolute;
+}
+
+#shapez8{
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 625px; 
+position: absolute;
+}
+
+#shapez9{ 
+	height: 400px;
+	width: 400px; 
+	background-color:	#dcdcdc;
+	margin: 525px; 
+position: absolute;
+}
+
+
+#section1{
+	background-color: yellow;
+}
+
+#section2{
+	background-color: blue;
+}
+
+#section3{
+	background-color:	#f08080; 
+}
+
+#section4{
+	background-color:#add8e6;
+}
+
+#section5{
+	background-color: #fafad2;
+}
+
+#section6{
+	background-color: 	#87cefa;
+}
+
+#section7{
+	background-color: #20b2aa;
+}
+
+#section8{
+	background-color:	#ffa07a;
+}
+
+#section9{
+	background-color: 	#ffb6c1;
+}
+
+#section10{
+	background-color: 	#90ee90;
+}
+
+#section11{
+	background-color: yellow;
+}
+
+#section12{
+	background-color: #7b68ee;
+}
+
+#section13{
+	background-color:#c71585;
+	z-index: 1;
+}
+
+#section14{
+	background-color:#663399;
+}
+
+#section15{
+	background-color: 	#9acd32;
+}
+
+#section16{
+	background-color: 	#ee82ee;
+}
+
+#section17{
+	background-color: #40e0d0;
+}
+
+#section18{
+	background-color: 	#ff6347;
+}
+
+#section19{
+	background-color: 	#d8bfd8;
+}
+
+#section20{
+	background-color: blue;
+}
+
+#section21{
+	background-color: yellow;
+}
+
+#section22{
+	background-color: blue;
+}
+
+#section23{
+	background-color: blue;
+}
+
+#section24{
+	background-color: blue;
+}
+
+#section25{
+	background-color: blue;
+}
+
+#section26{
+	background-color: blue;
+}
+
+#section27{
+	background-color: blue;
+}
+
+#section28{
+	background-color: blue;
+}
+
+#section29{
+	background-color: blue;
+}
+
+#section30{
+	background-color: blue;
+}
+
+#section31{
+	background-color: yellow;
+}
+
+#section32{
+	background-color: blue;
+}
+
+#section33{
+	background-color: blue;
+}
+
+#section34{
+	background-color: blue;
+}
+
+#section35{
+	background-color: blue;
+}
+
+#section36{
+	background-color: blue;
+}
+
+#section37{
+	background-color: blue;
+}
+
+#section38{
+	background-color: blue;
+}
+
+#section39{
+	background-color: blue;
+}
+
+#section40{
+	background-color: blue;
+}
+
+#section41{
+	background-color: yellow;
+}
+
+#section42{
+	background-color: blue;
+}
+
+#section43{
+	background-color: blue;
+}
+
+#section44{
+	background-color: blue;
+}
+
+#section45{
+	background-color: blue;
+}
+
+#section46{
+	background-color: blue;
+}
+
+#section47{
+	background-color: blue;
+}
+
+#section48{
+	background-color: blue;
+}
+
+#section49{
+	background-color: blue;
+}
+
+#section50{
+	background-color: blue;
+}
+#section51{
+	background-color: yellow;
+}
+
+#section52{
+	background-color: blue;
+}
+
+#section53{
+	background-color: blue;
+}
+
+#section54{
+	background-color: blue;
+}
+
+#section55{
+	background-color: blue;
+}
+
+#section56{
+	background-color: blue;
+}
+
+#section57{
+	background-color: blue;
+}
+
+#section58{
+	background-color: blue;
+}
+
+#section59{
+	background-color: blue;
+}
+
+#section60{
+	background-color: blue;
+}
+
+#section61{
+	background-color: yellow;
+}
+
+#section62{
+	background-color: blue;
+}
+
+#section63{
+	background-color: blue;
+}
+
+#section64{
+	background-color: blue;
+}
+
+#section65{
+	background-color: blue;
+}
+
+#section66{
+	background-color: blue;
+}
+
+#section67{
+	background-color: blue;
+}
+
+#section68{
+	background-color: blue;
+}
+
+#section69{
+	background-color: blue;
+}
+
+#section70{
+	background-color: blue;
+}
+
+#section71{
+	background-color: yellow;
+}
+
+#section72{
+	background-color: blue;
+}
+
+#section73{
+	background-color: blue;
+}
+
+#section74{
+	background-color: blue;
+}
+
+#section75{
+	background-color: blue;
+}
+
+#section76{
+	background-color: blue;
+}
+
+#section77{
+	background-color: blue;
+}
+
+#section78{
+	background-color: blue;
+}
+
+#section79{
+	background-color: blue;
+}
+
+#section80{
+	background-color: blue;
+}
+#section81{
+	background-color: yellow;
+}
+
+#section82{
+	background-color: blue;
+}
+
+#section83{
+	background-color: blue;
+}
+
+#section84{
+	background-color: blue;
+}
+
+#section85{
+	background-color: blue;
+}
+
+#section86{
+	background-color: blue;
+}
+
+#section87{
+	background-color: blue;
+}
+
+#section88{
+	background-color: blue;
+}
+
+#section89{
+	background-color: blue;
+}
+
+#section90{
+	background-color: blue;
+}
+
+#section91{
+	background-color: yellow;
+}
+
+#section92{
+	background-color: blue;
+}
+
+#section93{
+	background-color: blue;
+}
+
+#section94{
+	background-color: blue;
+}
+
+#section95{
+	background-color: blue;
+}
+
+#section96{
+	background-color: blue;
+}
+
+#section97{
+	background-color: blue;
+}
+
+#section98{
+	background-color: blue;
+}
+
+#section99{
+	background-color: blue;
+}
+
+#section100{
+	background-color: blue;
+}
+
+#helper{
+    /*display:none;*/
+    position:absolute;
+    left:0;
+    top:0;
+    height:100%;
+    /*will be 10000 for 100*/
+    width:20px;
+}
+
+.marker{
+    width:100%;
+    height:100%;
+    /*will be 1% of 100*/
+}
+
+.next{
+	position: absolute;
+    bottom: 1%;
+    right: 1%;
+}
+.one{
+	background-color: red;
+}
+
+.two{
+	background-color: yellow;
+
+}
+
+.three{
+	background-color: blue;
+
+}
+
+.four{
+	background-color: green;
+
+
+}
+
+.five{
+	background-color: red;
+}
+
+.six{
+	background-color: yellow;
+
+}
+
+.seven{
+	background-color: blue;
+
+}
+
+.eight{
+	background-color: green;
+
+
+}
+
+.nine{
+	background-color: red;
+}
+
+.ten{
+	background-color: yellow;
+
+}
+
+.eleven{
+	background-color: blue;
+
+}
+
+.twelve{
+	background-color: green;
+
+
+}
+
+.thirteen{
+	background-color: red;
+}
+
+.fourteen{
+	background-color: yellow;
+
+}
+
+.fifteen{
+	background-color: blue;
+
+}
+
+.sixteen{
+	background-color: green;
+
+
+}
+
+.seventeen{
+	background-color: red;
+}
+
+.eighteen{
+	background-color: yellow;
+
+}
+
+.nineteen{
+	background-color: blue;
+
+}
+
+.twenty{
+	background-color: green;
+
+
+}
+
+
+
+
+.spin{
+	position:relative;
+	width:25%;
+	height:20px;
+	top:33%;
+	left:33%;
+	background-color: cyan;
+}
+
+
+
+
+
